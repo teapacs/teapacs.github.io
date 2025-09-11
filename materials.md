@@ -51,6 +51,11 @@ The available slides are published with authorization from the authors.
 
 # 2021
 
+**V. de Nitto Personè** (Tor Vergata University of Rome, Italy) **Y.C. Tay** (National University of Singapore): _Message from the Chairs_  
+[Report](materials/2021TeaPACS1ChairsMessage.pdf)
+
+# 
+
 **V. de Nitto Personè** (Tor Vergata University of Rome, Italy) **Y.C. Tay** (National University of Singapore): _Report on the First International Workshop on Teaching Performance Analysis of Computer Systems_  
 [Report](https://dl.acm.org/doi/10.1145/3543146.3547431)
 
